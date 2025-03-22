@@ -1,3 +1,17 @@
+      ___           ___           ___           ___           ___           ___           ___           ___           ___     
+     /\  \         /\__\         /\  \         /\__\         /\  \         /\  \         /\  \         /\  \         |\__\    
+     \:\  \       /:/  /        /::\  \       /:/  /        /::\  \       /::\  \       /::\  \       /::\  \        |:|  |   
+      \:\  \     /:/__/        /:/\:\  \     /:/__/        /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \       |:|  |   
+      /::\  \   /::\  \ ___   /::\~\:\  \   /::\__\____   /:/  \:\  \   /:/  \:\__\   /::\~\:\  \   /::\~\:\  \      |:|__|__ 
+     /:/\:\__\ /:/\:\  /\__\ /:/\:\ \:\__\ /:/\:::::\__\ /:/__/ \:\__\ /:/__/ \:|__| /:/\:\ \:\__\ /:/\:\ \:\__\ ____/::::\__\
+    /:/  \/__/ \/__\:\/:/  / \:\~\:\ \/__/ \/_|:|~~|~    \:\  \ /:/  / \:\  \ /:/  / \:\~\:\ \/__/ \/_|::\/:/  / \::::/~~/~   
+   /:/  /           \::/  /   \:\ \:\__\      |:|  |      \:\  /:/  /   \:\  /:/  /   \:\ \:\__\      |:|::/  /   ~~|:|~~|    
+   \/__/            /:/  /     \:\ \/__/      |:|  |       \:\/:/  /     \:\/:/  /     \:\ \/__/      |:|\/__/      |:|  |    
+                   /:/  /       \:\__\        |:|  |        \::/  /       \::/__/       \:\__\        |:|  |        |:|  |    
+                   \/__/         \/__/         \|__|         \/__/         ~~            \/__/         \|__|         \|__|    
+                                                                                                 
+                                                                                                 
+
 # 👩‍💻 **WELCOME TO MY REPOSITORY**  
 ### *Donde el código cobra vida y los firewalls tiemblan.*
 
@@ -32,6 +46,10 @@
 
 ---
 
+```bash
+$ curl -X POST https://api.hacker.dev/contact -d "message=Hola, ¿colaboramos?"
+> [✔] Mensaje encriptado y enviado. Espera respuesta...
+
 ## 🔐 **Código de Conducta**  
 - **No preguntes:** Si no estás preparadx para la respuesta.  
 - **No copies:** A menos que estés dispuestx a mejorarlo.  
@@ -40,16 +58,8 @@
 ---
 
 ## 🌌 **Contacto**  
-¿Interesadx en colaborar, hackear el mundo o simplemente charlar sobre código?  
+¿Interesadx en colaborar, hackear o simplemente charlar sobre código?  
 
----
-
-### **Advertencia:** Este repositorio puede contener código que desafía las leyes de la física.  
-### **Úsalo bajo tu propio riesgo.**  
-
----
-
-🖤 **Código con estilo, hackea con pasión.**  
 ---
 
 ### **Advertencia:** Este repositorio puede contener código que desafía las leyes de la física.  
