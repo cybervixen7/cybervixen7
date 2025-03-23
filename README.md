@@ -20,10 +20,10 @@
                                                                                                  
 
 # 👩‍💻 **WELCOME TO MY REPOSITORY**  
-###Where frontend meets backend, and magic happens.
+### Where frontend meets backend, and magic happens.
 
 --- 
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 ### **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,7 +53,7 @@
 
 ---
 
-###🔐 My Rules
+### 🔐 My Rules
 
 Ask smart questions: Be ready for honest answers.
 
@@ -63,17 +63,17 @@ Hack ethically: Always ask first (unless it’s my CTF).
 
 ---
 
-##🌌 Let’s Connect
+## 🌌 Let’s Connect
 Interested in collaborating, brainstorming, or just chatting about tech? Let’s talk!
 ----
 
-###Disclaimer:
+### Disclaimer:
 This repository might contain code that pushes boundaries.
 Use it wisely.
 
 ---
 
-🖤 ** Code with style, build with passion.**  
+🖤 ** Code with style, build with passion. **  
 
 
 ```python
