@@ -1,3 +1,8 @@
+<div align="center">
+    <h1>👋  Hello World! 👋 </h1>
+    <p>Exploring the universe of code, one commit at a time. 💻✨</p>
+</div>
+
 <pre>
       ___           ___           ___           ___           ___           ___           ___           ___           ___     
      /\  \         /\__\         /\  \         /\__\         /\  \         /\  \         /\  \         /\  \         |\__\    
@@ -15,10 +20,10 @@
                                                                                                  
 
 # 👩‍💻 **WELCOME TO MY REPOSITORY**  
-### *Donde el código cobra vida y los firewalls tiemblan.*
+###Where frontend meets backend, and magic happens.
 
 --- 
-## 🛠️ **Habilidades Técnicas**  
+##🛠️ Technical Skills
 
 ### **Frontend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,27 +53,33 @@
 
 ---
 
-## 🔐 **Código de Conducta**  
-- **No preguntes:** Si no estás preparadx para la respuesta.  
-- **No copies:** A menos que estés dispuestx a mejorarlo.  
-- **No hackees:** Sin permiso explícito (a menos que sea en mi CTF).  
+###🔐 My Rules
+
+Ask smart questions: Be ready for honest answers.
+
+Copy responsibly: Make it better, not worse.
+
+Hack ethically: Always ask first (unless it’s my CTF). 
 
 ---
 
-## 🌌 **Contacto**  
-¿Interesadx en colaborar, hackear o simplemente charlar sobre código?  
+##🌌 Let’s Connect
+Interested in collaborating, brainstorming, or just chatting about tech? Let’s talk!
+----
+
+###Disclaimer:
+This repository might contain code that pushes boundaries.
+Use it wisely.
 
 ---
 
-### **Advertencia:** Este repositorio puede contener código que desafía las leyes de la física.  
-### **Úsalo bajo tu propio riesgo.**  
-
----
-
-🖤 **Código con estilo, hackea con pasión.**  
+🖤 ** Code with style, build with passion.**  
 
 
-```bash
-$ curl -X POST https://api.hacker.dev/contact -d "message=Hola, ¿colaboramos?"
-> [✔] Mensaje encriptado y enviado. Espera respuesta...
+```python
+def bye_world():
+    print("👋 Thanks for stopping by! Keep coding and stay awesome. 🚀✨")
+    print("If you have any questions or just want to chat, feel free to reach out!")
+    print("Happy coding! 💻🎉")
 
+bye_world()
